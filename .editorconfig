@@ -1,0 +1,7 @@
+[*.cs]
+
+# IDE0210: Converter para instruções de alto-nível
+dotnet_diagnostic.IDE0210.severity = suggestion
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = suggestion
